@@ -3,7 +3,7 @@
 <p align="center"><img src="/img/imre-nagi.jpg" width="340"></p>
 
  - These are the official pictures to use if you would like to include an image of me for an event (with my consent). 
- - These pictures are **NOT** free to use if you are including them in media or any other publication without my consent. If you are unsure please [email me](mailto:imre.nagi2812@gmail.com.com).
+ - These pictures are **NOT** free to use if you are including them in media or any other publication without my consent. If you are unsure please [email me](mailto:imre.nagi2812@gmail.com).
  
 ### Request for me to speak
 
@@ -26,7 +26,7 @@ See above.
 
 **Best way to contact you**: 
 
-If you truly need me for something that you cannot find here you can [email me](mailto:imre.nagi2812@gmail.com.com).
+If you truly need me for something that you cannot find here you can [email me](mailto:imre.nagi2812@gmail.com).
 
 ### Find me online
 
@@ -36,4 +36,4 @@ If you truly need me for something that you cannot find here you can [email me](
  
 #### Full YouTube Playlist:
 
-I track some of my public speaking in this [YouTube channel]()
+I track some of my public speaking in this [YouTube channel](https://www.youtube.com/channel/UCC7eynhXsqH-7RdsBB1E53g)
