@@ -1,10 +1,7 @@
 Tech Talks
 ===
 
-Template:
-```
-[TECH TALK] ** []() **Title**: ** **Slide**: [here]()
-```
+All tech talks I did since I came back to Indonesia (for good) :p
 
 ## 2018
 1. [TECH TALK] *Long Time Ago* [GDG Bogor](https://www.meetup.com/GDG-Bogor/events/past/) **Title**: *Dockerize Your Project* **Slide**: [here](https://docs.google.com/presentation/d/11VjXD2HLJmh69wB0QInWDvUTkKHwlUXo_DBE8SqtALg/edit?usp=sharing)
