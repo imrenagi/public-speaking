@@ -3,11 +3,11 @@ Tech Talks
 
 Template:
 ```
-[TECH TALK] ** []() **Title**: *[TIT* **Slide**: [here]()
+[TECH TALK] ** []() **Title**: ** **Slide**: [here]()
 ```
 
 ## 2018
-1. [TECH TALK] ** []() **Title**: ** **Slide**: [here]()
+1. [TECH TALK] *Long Time Ago* [GDG Bogor](https://www.meetup.com/GDG-Bogor/events/past/) **Title**: *Dockerize Your Project* **Slide**: [here](https://docs.google.com/presentation/d/11VjXD2HLJmh69wB0QInWDvUTkKHwlUXo_DBE8SqtALg/edit?usp=sharing)
 
 1. [WORKSHOP] *September 1st, 2018* [Google Cloud Platform & Docker Workshop For Beginner (Free Workshop/Labs)](https://www.meetup.com/GDG-Jakarta/events/254027476/)
 
