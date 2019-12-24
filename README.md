@@ -46,4 +46,4 @@ I track some of my public speaking in this [YouTube channel](https://www.youtube
 
 #### Public Speaking History:
 
-I compiled all of my public talk in my [public speaking page](https://github.com/imrenagi/public-speaking/tech-talks)
+I compiled all of my public talk in my [public speaking page](https://github.com/imrenagi/public-speaking/tree/master/tech-talks)
