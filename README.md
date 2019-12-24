@@ -12,6 +12,12 @@ If you would like to have me attend your event, file an issue in the [official i
 
 ### Biography 
 
+#### Short
+
+> Imre Nagi, CTO & Co-founder of Schoters.com. Previously worked as Senior Data Engineer in Traveloka and as Software Engineer intern in CERN and eBAY, Sillicon Valley. Most of the time, he works on Go and cloud native technology (docker, kubernetes, istio, etc). Imre is an active community contributor and also the first Google Developer Expert Cloud from Indonesia. 
+
+#### Long 
+
 > Imre Nagi, CTO & Co-founder of Schoters.com, focuses on software architecture, cloud native technology (container and kubernetes), and data engineering. Imre has deep technical backgroud in Go programming language and has develop applications in different domain in Go. Prior to Schoters, he was Senior Data Engineer in the biggest OTA (Online Travel Agent), Traveloka where he mostly worked with big data technologies like Bigtable, Dataflow, Bigquery, Cloud Pub/Sub, etc. He also has experiences working in some big companies and world class research center like eBay (2017) and CERN (2013) as software engineer. Imre is a leader in Indonesia tech scene community. He organizes docker community as Indonesia Docker Community Leader and leads Jakarta Kubernetes and also Cloud Native Jakarta user group. Imre is also the first Google Developer Expert Cloud from Indonesia. Imre lives in Jakarta and spends his free time reading and learning.
 
 ### FAQ
@@ -37,3 +43,7 @@ If you truly need me for something that you cannot find here you can [email me](
 #### Full YouTube Playlist:
 
 I track some of my public speaking in this [YouTube channel](https://www.youtube.com/channel/UCC7eynhXsqH-7RdsBB1E53g)
+
+#### Public Speaking History:
+
+I compiled all of my public talk in my [public speaking page](https://github.com/imrenagi/public-speaking/tech-talks)
