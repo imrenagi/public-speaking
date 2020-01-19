@@ -62,3 +62,7 @@ With Golang & GraphQL* **Slide**: [here](https://docs.google.com/presentation/d/
 1. [TECH TALK] *December 19th, 2019* [Kubernetes and Cloud Native Bandung](https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung/events/267202957/) **Title**: *Introduction to RBAC* **Slide**: [here](https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing)
 
 1. [WORKSHOP] *December 21st, 2019* [Docker Learn: Hands-on Workshop](https://www.meetup.com/Docker-Indonesia/events/265418699/)
+
+## 2020
+
+1. [TECH TALK] *January 18th, 2020* [Global Diversity Day 2020](https://www.globaldiversitycfpday.com/events/230) **Title**: *Preparing Your Technical Demo* **Slide**: [here](https://docs.google.com/presentation/d/1XXTwU33ZmiLk90C8TTwlHtq3s2ytSME-Su1OYzM36dI/edit?usp=sharing)
