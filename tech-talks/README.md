@@ -7,6 +7,16 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *January 18th, 2020* [Global Diversity Day 2020](https://www.globaldiversitycfpday.com/events/230) **Title**: *Preparing Your Technical Demo* **Slide**: [here](https://docs.google.com/presentation/d/1XXTwU33ZmiLk90C8TTwlHtq3s2ytSME-Su1OYzM36dI/edit?usp=sharing)
 
+1. [TECH TALK] *January 25th, 2020* [DevC Malang Meetup](https://www.facebook.com/groups/DevCMalang/) **Title**: *Container, Kubernetes and Service Mesh* **Slide**: [here](https://docs.google.com/presentation/d/1IqYsDEA6Atq-s0xFkLvNGxAAs5nomji0VOOf6gS-mFI/edit?usp=sharing)
+
+1. [GUEST LECTURE] *February 20th, 2020* [Matkul RPL Universitas Indonesia]() **Title**: *Automatic Deployment* **Slide**: [here](https://docs.google.com/presentation/d/1B1bjVGLTA1xhQ01I9HzsJJC5wZIEWhR04wJ_xwnll9U/edit?usp=sharing)
+
+1. [WORKSHOP] *March 7th, 2020* [Hands-on Workshop: Introduction to Docker for Developers](https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung/events/268976066/)
+
+1. [CORPORATE TALK] *March 11th, 2020* [Temu Nasional BPJS Kesehatan]() **Title**: *Microservice Principles* **Slide**: [here](https://docs.google.com/presentation/d/1auoxvujsDnqzJYBiJrzBFWmfVa05XJgAGIthHJ--xAM/edit?usp=sharing)
+
+1. [CORPORATE WORKSHOP] *March 20th, 2020* [BRI Digital Center of Excellence]() **Title**: *Lazy Analytics with Segment and Mixpanel* **Slide**: [here](https://docs.google.com/presentation/d/1LJyNef7-rCVXv5O_tdGxqWQA6E7u4wy9vDyhtyj6S_Y/edit?usp=sharing)
+
 
 ## 2019
 
