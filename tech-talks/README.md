@@ -17,6 +17,7 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [CORPORATE WORKSHOP] *March 20th, 2020* [BRI Digital Center of Excellence]() **Title**: *Lazy Analytics with Segment and Mixpanel* **Slide**: [here](https://docs.google.com/presentation/d/1LJyNef7-rCVXv5O_tdGxqWQA6E7u4wy9vDyhtyj6S_Y/edit?usp=sharing)
 
+1. [TECH TALK] *April 18th, 2020* [Konferensi Pekerja Teknologi Informasi (KonPeTI)](https://gerakdarirumah.id/) **Title**: *CICD with Cloud Build & ArgoCD* **Slide**: [here](https://docs.google.com/presentation/d/17KPelk0EgzTGKpJtW0Mmwj8BemMs4GLafKyh_ijA98s/edit?usp=sharing) **Video**: [here](https://www.youtube.com/watch?v=DtgG080aEyk&feature=youtu.be)
 
 ## 2019
 
