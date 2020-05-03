@@ -19,7 +19,7 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *April 18th, 2020* [Konferensi Pekerja Teknologi Informasi (KonPeTI)](https://gerakdarirumah.id/) **Title**: *CICD with Cloud Build & ArgoCD* **Slide**: [here](https://docs.google.com/presentation/d/17KPelk0EgzTGKpJtW0Mmwj8BemMs4GLafKyh_ijA98s/edit?usp=sharing) **Video**: [here](https://www.youtube.com/watch?v=DtgG080aEyk&feature=youtu.be)
 
-1. [TECH TALK] *May 3rd, 2020* [Nusantech Online Webinar](https://nusantech.com/) **Title**: *Introduction to Google Cloud IoT Core* **Slide**: [here](https://docs.google.com/presentation/d/1Zye3nmcTwRb6o7LxgUFVjB4MxcBPOatLOapgdnCXZYM/edit?usp=sharing) **Video**: Coming Soon
+1. [TECH TALK] *May 3rd, 2020* [Nusantech Online Webinar](https://nusantech.com/) **Title**: *Introduction to Google Cloud IoT Core* **Slide**: [here](https://docs.google.com/presentation/d/1Zye3nmcTwRb6o7LxgUFVjB4MxcBPOatLOapgdnCXZYM/edit?usp=sharing) **Video**: [here](https://www.youtube.com/playlist?list=PLJDedZCB3DvAIbOKalHTbi8v5w6ACMonH)
 
 
 
