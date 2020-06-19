@@ -23,6 +23,8 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *May 17rd, 2020* [Ngabuburit Bareng GDE](https://www.loket.com/event/ngabuburit-gde) **Title**: *Google Cloud Secret Manager*. **Slide**: [here](https://docs.google.com/presentation/d/1i2m6oQ4jwcw-iUTXWxBTUB7ZuCUBl3ofWTbfHH78FI4/edit?usp=sharing) **Video**: [here](https://www.youtube.com/watch?v=p-dmWVal-oU)
 
+1. [TECH TALK] *June 14rd, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *Payment Gateway Proxy in Golang: go-payment*. **Video**: [here](https://www.youtube.com/watch?v=klX2QTz0Olc)
+
 ## 2019
 
 1. [TECH TALK] *January 31st, 2019* @[GDG Jakarta Meetup: Cloud Dataflow](https://www.meetup.com/GDG-Jakarta/events/258350522/). **Title**: *Google Cloud Dataflow - Unified Model for Stream and Batch processing*. Slide: [here](https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing)
