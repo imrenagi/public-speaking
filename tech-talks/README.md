@@ -21,9 +21,11 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *May 3rd, 2020* [Nusantech Online Webinar](https://nusantech.com/) **Title**: *Introduction to Google Cloud IoT Core*. **Slide**: [here](https://docs.google.com/presentation/d/1Zye3nmcTwRb6o7LxgUFVjB4MxcBPOatLOapgdnCXZYM/edit?usp=sharing) **Video**: [here](https://www.youtube.com/playlist?list=PLJDedZCB3DvAIbOKalHTbi8v5w6ACMonH)
 
-1. [TECH TALK] *May 17rd, 2020* [Ngabuburit Bareng GDE](https://www.loket.com/event/ngabuburit-gde) **Title**: *Google Cloud Secret Manager*. **Slide**: [here](https://docs.google.com/presentation/d/1i2m6oQ4jwcw-iUTXWxBTUB7ZuCUBl3ofWTbfHH78FI4/edit?usp=sharing) **Video**: [here](https://www.youtube.com/watch?v=p-dmWVal-oU)
+1. [TECH TALK] *May 17th, 2020* [Ngabuburit Bareng GDE](https://www.loket.com/event/ngabuburit-gde) **Title**: *Google Cloud Secret Manager*. **Slide**: [here](https://docs.google.com/presentation/d/1i2m6oQ4jwcw-iUTXWxBTUB7ZuCUBl3ofWTbfHH78FI4/edit?usp=sharing) **Video**: [here](https://www.youtube.com/watch?v=p-dmWVal-oU)
 
-1. [TECH TALK] *June 14rd, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *Payment Gateway Proxy in Golang: go-payment*. **Video**: [here](https://www.youtube.com/watch?v=klX2QTz0Olc)
+1. [TECH TALK] *June 14th, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *Payment Gateway Proxy in Golang: go-payment*. **Video**: [here](https://www.youtube.com/watch?v=klX2QTz0Olc)
+
+1. [TECH TALK] *June 28th, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *Avoiding Overkill Abstraction in Golang*. **Video**: [here](https://www.youtube.com/watch?v=snv1udQlYnI)
 
 ## 2019
 
