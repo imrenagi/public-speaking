@@ -27,6 +27,11 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *June 28th, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *Avoiding Overkill Abstraction in Golang*. **Video**: [here](https://www.youtube.com/watch?v=snv1udQlYnI)
 
+1. [TECH TALK] *July 12th, 2020* [Imre's Youtube Channel](https://www.youtube.com/c/ImreNagi) **Title**: *CoreOS Dex Untuk Servis Otentikasi Pada Aplikasi Berbasis Microservice*. **Video**: [here](https://youtu.be/z-ss_rZF2is)
+
+1. [TECH TALK] *August 28th, 2020* [Cloud Native Indonesia Youtube Channel](https://www.youtube.com/channel/UCX4J6ceIwtN00Tu7Deq1z6w) **Title**: *CloudEvent Spec*. **Video**: [here](https://youtu.be/6pFKn9R3uec) **Slide**: [here](https://docs.google.com/presentation/d/1FZS7a1wDobrmOvqiBWtLuMv4EEH-8sIn5oqjMudOffQ/edit?usp=sharing)
+
+
 ## 2019
 
 1. [TECH TALK] *January 31st, 2019* @[GDG Jakarta Meetup: Cloud Dataflow](https://www.meetup.com/GDG-Jakarta/events/258350522/). **Title**: *Google Cloud Dataflow - Unified Model for Stream and Batch processing*. Slide: [here](https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing)
