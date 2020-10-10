@@ -1,8 +1,6 @@
 Tech Talks
 ===
 
-All tech talks I did since I came back to Indonesia (for good) :p
-
 ## 2020
 
 1. [TECH TALK] *January 18th, 2020* [Global Diversity Day 2020](https://www.globaldiversitycfpday.com/events/230) **Title**: *Preparing Your Technical Demo* **Slide**: [here](https://docs.google.com/presentation/d/1XXTwU33ZmiLk90C8TTwlHtq3s2ytSME-Su1OYzM36dI/edit?usp=sharing)
@@ -31,6 +29,9 @@ All tech talks I did since I came back to Indonesia (for good) :p
 
 1. [TECH TALK] *August 28th, 2020* [Cloud Native Indonesia Youtube Channel](https://www.youtube.com/channel/UCX4J6ceIwtN00Tu7Deq1z6w) **Title**: *CloudEvent Spec*. **Video**: [here](https://youtu.be/6pFKn9R3uec) **Slide**: [here](https://docs.google.com/presentation/d/1FZS7a1wDobrmOvqiBWtLuMv4EEH-8sIn5oqjMudOffQ/edit?usp=sharing)
 
+1. [PANEL DISCUSSION] *October 7th, 2020* [GDG Jakarta Youtube Channel](https://www.youtube.com/channel/UCo8ChT5KXYznrc3beoqiEfA) **Title**: *Learn and Lead with Cloud GDE - #JuaraGCP*. **Video**: [here](https://www.youtube.com/watch?v=k-CArAqLkyw) 
+
+1. [GUEST LECTURE] *October 8th, 2020* [PTIK Universitas Negeri Semarang]() **Title**: *Cloud Engineering at Gojek* **Slide**: [here](https://drive.google.com/file/d/1QJaGAvLOEDpac7ZnHui2PtnogaazUyAl/view?usp=sharing)
 
 ## 2019
 
