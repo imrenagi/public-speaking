@@ -33,6 +33,10 @@ Tech Talks
 
 1. [GUEST LECTURE] *October 8th, 2020* [PTIK Universitas Negeri Semarang]() **Title**: *Cloud Engineering at Gojek* **Slide**: [here](https://drive.google.com/file/d/1QJaGAvLOEDpac7ZnHui2PtnogaazUyAl/view?usp=sharing)
 
+1. [TECH TALK] *October 15th, 2020* [Cloud Computing Workshop HMIF Uni Esa Unggul]() **Title**: *Choosing Compute Options* **Slide**: [here](https://drive.google.com/file/d/1OGrpRZXffrkV1JHJQcrEDbNkYrxv-7oc/view?usp=sharing)
+
+1. [TECH TALK] *October 17th, 2020* [GDG Indonesia Youtube Channel](https://www.youtube.com/channel/UCo8ChT5KXYznrc3beoqiEfA) **Title**: *DevFest 2020 - Introduction to Programming Kubernetes: Google Secret Manager Use Case*. **Video**: [here](https://youtu.be/AYlb-JzIL8A) **Slide**: [here](https://drive.google.com/file/d/1vZZYV4HproCczIge00e2o6whkLsswxdM/view?usp=sharing)
+
 ## 2019
 
 1. [TECH TALK] *January 31st, 2019* @[GDG Jakarta Meetup: Cloud Dataflow](https://www.meetup.com/GDG-Jakarta/events/258350522/). **Title**: *Google Cloud Dataflow - Unified Model for Stream and Batch processing*. Slide: [here](https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing)
