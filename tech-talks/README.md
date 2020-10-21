@@ -39,6 +39,9 @@ Tech Talks
 
 1. [TECH TALK] *October 18th, 2020* [GDG Brunei](https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-gdg-brunei-devfest-2020/#/) **Title**: *DevFest 2020 - Serverless Workflows*. **Video**: [TBA]() **Slide**: [here](https://drive.google.com/file/d/1-rqUhhJ1Rb9lL4ZxbodiqPcw_oFKMjQO/view?usp=sharing)
 
+1. [GUEST LECTURE] *October 21th, 2020* [Matkul RPL Universitas Indonesia]() **Title**: *Automatic Deployment* **Slide**: [here](https://drive.google.com/file/d/1VF-aITCYUAYP9RH2XW6zxcmooxCmYmu-/view?usp=sharing)
+
+
 ## 2019
 
 1. [TECH TALK] *January 31st, 2019* @[GDG Jakarta Meetup: Cloud Dataflow](https://www.meetup.com/GDG-Jakarta/events/258350522/). **Title**: *Google Cloud Dataflow - Unified Model for Stream and Batch processing*. Slide: [here](https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing)
