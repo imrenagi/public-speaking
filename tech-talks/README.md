@@ -41,6 +41,7 @@ Tech Talks
 
 1. [GUEST LECTURE] *October 21th, 2020* [Matkul RPL Universitas Indonesia]() **Title**: *Automatic Deployment* **Slide**: [here](https://drive.google.com/file/d/1VF-aITCYUAYP9RH2XW6zxcmooxCmYmu-/view?usp=sharing)
 
+1. [PANEL DISCUSSION] *October 22th, 2020* [Deeptech Foundation Youtube Channel](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) **Title**: *Pujangga Teknologi Episode Turun Gunung Ep. 2 - Monolithic vs Microservices: Menghindari Cargo-Cult*. **Video**: [here](https://www.youtube.com/watch?v=pLMFpZWe-z4&t=7025s&ab_channel=DeepTechFoundation) 
 
 ## 2019
 
