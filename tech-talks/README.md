@@ -43,6 +43,9 @@ Tech Talks
 
 1. [PANEL DISCUSSION] *October 22th, 2020* [Deeptech Foundation Youtube Channel](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) **Title**: *Pujangga Teknologi Episode Turun Gunung Ep. 2 - Monolithic vs Microservices: Menghindari Cargo-Cult*. **Video**: [here](https://www.youtube.com/watch?v=pLMFpZWe-z4&t=7025s&ab_channel=DeepTechFoundation) 
 
+1. [TECH TALK] *November 7th, 2020* [Open Infrastructure Cloud Native Days](https://www.openstack.id/2020/10/08/open-infrastructure-cloud-native-day-indonesia-2020/) **Title**: *Ensuring Kubernetes Security and Best Practice with Admission Controller*. **Video**: [here](https://www.youtube.com/watch?v=JDl5UedRrbo&ab_channel=ImreNagi) **Slide**: [here](https://drive.google.com/file/d/15RYIm-NNftEU7EE10elYHHImvDKB3ueZ/view?usp=sharing)
+
+
 ## 2019
 
 1. [TECH TALK] *January 31st, 2019* @[GDG Jakarta Meetup: Cloud Dataflow](https://www.meetup.com/GDG-Jakarta/events/258350522/). **Title**: *Google Cloud Dataflow - Unified Model for Stream and Batch processing*. Slide: [here](https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing)
