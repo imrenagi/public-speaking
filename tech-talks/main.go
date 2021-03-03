@@ -83,7 +83,7 @@ func (t Talk) GetTime() time.Time {
 }
 
 func (t Talk) TagsStr() string {
-	return strings.Join(t.Tags, ",")
+	return strings.Join(t.Tags, ", ")
 }
 
 func main() {
