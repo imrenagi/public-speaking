@@ -1,0 +1,528 @@
+- title: Preparing Your Technical Demo
+  type: COMMUNITY_TALK
+  event:
+    name: Global Diversity Day 2020
+    url: https://www.globaldiversitycfpday.com/events/230
+  dateTime: 2020-01-18T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1XXTwU33ZmiLk90C8TTwlHtq3s2ytSME-Su1OYzM36dI/edit?usp=sharing
+  tags:
+  -  presentation skill
+- title: Container, Kubernetes and Service Mesh
+  type: COMMUNITY_TALK
+  event:
+    name: DevC Malang Meetup
+    url: https://www.facebook.com/groups/DevCMalang/
+  dateTime: 2020-01-25T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1IqYsDEA6Atq-s0xFkLvNGxAAs5nomji0VOOf6gS-mFI/edit?usp=sharing
+  tags:
+  - container
+  - kubernetes
+  - istio
+  - docker
+  - service mesh
+- title: Automatic Deployment
+  type: GUEST_LECTURE
+  event:
+    name: Matkul RPL Universitas Indonesia
+    url: https://ui.ac.id
+  dateTime: 2020-02-20T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1B1bjVGLTA1xhQ01I9HzsJJC5wZIEWhR04wJ_xwnll9U/edit?usp=sharing
+  tags:
+  - cicd
+  - container
+  - kubernetes
+- title: "Hands-on Workshop: Introduction to Docker for Developers"
+  type: WORKSHOP
+  event:
+    name: Kubernetes and Cloud Native Bandung
+    url: https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung/events/268976066/
+  dateTime: 2020-03-07T00:00:00+0700
+  artifact: {}
+  tags:
+  - container
+  - docker
+- title: Microservice Principles
+  type: CORPORATE_TALK
+  event:
+    name: Temu Nasional BPJS Kesehatan
+  dateTime: 2020-03-11T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1auoxvujsDnqzJYBiJrzBFWmfVa05XJgAGIthHJ--xAM/edit?usp=sharing
+  tags:
+  - microservice
+- title: Lazy Analytics with Segment and Mixpanel
+  type: WORKSHOP
+  event:
+    name: BRI Digital Center of Excellence
+  dateTime: 2020-03-20T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1LJyNef7-rCVXv5O_tdGxqWQA6E7u4wy9vDyhtyj6S_Y/edit?usp=sharing
+  tags:
+  - analytics
+  - segment.io
+  - mixpanel
+- title: CICD with Cloud Build & ArgoCD
+  type: CONFERENCE_TALK
+  event:
+    name: Konferensi Pekerja Teknologi Informasi (KonPeTI)
+    url: https://gerakdarirumah.id/
+  dateTime: 2020-04-18T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/17KPelk0EgzTGKpJtW0Mmwj8BemMs4GLafKyh_ijA98s/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=DtgG080aEyk&feature=youtu.be
+  tags:
+  - cicd
+  - argocd
+- title: Introduction to Google Cloud IoT Core
+  type: COMMUNITY_TALK
+  event:
+    name: Nusantech Online Webinar
+    url: https://nusantech.com/
+  dateTime: 2020-05-03T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1Zye3nmcTwRb6o7LxgUFVjB4MxcBPOatLOapgdnCXZYM/edit?usp=sharing
+    video: https://www.youtube.com/playlist?list=PLJDedZCB3DvAIbOKalHTbi8v5w6ACMonH
+  tags:
+  - iot
+  - cloud iot core
+- title: Google Cloud Secret Manager
+  type: COMMUNITY_TALK
+  event:
+    name: Ngabuburit Bareng GDE
+    url: https://www.loket.com/event/ngabuburit-gde
+  dateTime: 2020-05-17T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1i2m6oQ4jwcw-iUTXWxBTUB7ZuCUBl3ofWTbfHH78FI4/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=p-dmWVal-oU
+  tags:
+  - security
+- title: "Payment Gateway Proxy in Golang: go-payment"
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Engineering with Imre Youtube Channel
+    url: https://www.youtube.com/c/ImreNagi
+  dateTime: 2020-06-14T00:00:00+0700
+  artifact:
+    video: https://www.youtube.com/watch?v=klX2QTz0Olc
+  tags:
+  - golang
+- title: Avoiding Overkill Abstraction in Golang
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Engineering with Imre Youtube Channel
+    url: https://www.youtube.com/c/ImreNagi
+  dateTime: 2020-06-28T00:00:00+0700
+  artifact:
+    video: https://www.youtube.com/watch?v=snv1udQlYnI
+  tags:
+  - golang
+- title: CoreOS Dex Untuk Servis Otentikasi Pada Aplikasi Berbasis Microservice
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Engineering with Imre Youtube Channel
+    url: https://www.youtube.com/c/ImreNagi
+  dateTime: 2020-07-12T00:00:00+0700
+  artifact:
+    video: https://youtu.be/z-ss_rZF2is
+  tags:
+  - golang
+  - security
+- title: CloudEvent Spec
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Native Indonesia Youtube Channel
+    url: https://www.youtube.com/channel/UCX4J6ceIwtN00Tu7Deq1z6w
+  dateTime: 2020-08-28T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1FZS7a1wDobrmOvqiBWtLuMv4EEH-8sIn5oqjMudOffQ/edit?usp=sharing
+    video: https://youtu.be/6pFKn9R3uec
+  tags:
+  - cloudevents
+- title: "Learn and Lead with Cloud GDE - #JuaraGCP"
+  type: COMMUNITY_TALK
+  event:
+    name: GDG Jakarta Youtube Channel
+    url: https://www.youtube.com/channel/UCo8ChT5KXYznrc3beoqiEfA
+  dateTime: 2020-10-07T00:00:00+0700
+  artifact:
+    video: https://www.youtube.com/watch?v=k-CArAqLkyw
+  tags:
+  - career
+- title: Cloud Engineering at Gojek
+  type: GUEST_LECTURE
+  event:
+    name: PTIK Universitas Negeri Semarang
+    url: https://unnes.ac.id/
+  dateTime: 2020-10-08T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/1QJaGAvLOEDpac7ZnHui2PtnogaazUyAl/view?usp=sharing
+  tags:
+  - career
+- title: Choosing Compute Options
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Computing Workshop HMIF Uni Esa Unggul
+  dateTime: 2020-10-15T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/1OGrpRZXffrkV1JHJQcrEDbNkYrxv-7oc/view?usp=sharing
+  tags:
+  - serverless
+  - container
+  - kubernetes
+  - cloud run
+  - cloud function
+  - compute engine
+- title: "DevFest 2020 - Introduction to Programming Kubernetes: Google Secret Manager Use Case"
+  type: CONFERENCE_TALK
+  event:
+    name: GDG Indonesia Youtube Channel
+    url: https://www.youtube.com/channel/UCo8ChT5KXYznrc3beoqiEfA
+  dateTime: 2020-10-17T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/1vZZYV4HproCczIge00e2o6whkLsswxdM/view?usp=sharing
+    video: https://youtu.be/AYlb-JzIL8A
+  tags:
+  - kubernetes
+  - security
+  - admission controller
+- title: "DevFest 2020 - Serverless Workflows"
+  type: CONFERENCE_TALK
+  event:
+    name: GEG DEV-FEST Brunei
+    url: https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-gdg-brunei-devfest-2020/#/
+  dateTime: 2020-10-18T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/1-rqUhhJ1Rb9lL4ZxbodiqPcw_oFKMjQO/view?usp=sharing
+    video: https://www.youtube.com/watch?v=zBPTnRUbbqw&t=1s
+  tags:
+  - serverless
+  - cloud workflows
+- title: Automatic Deployment
+  type: GUEST_LECTURE
+  event:
+    name: Matkul RPL Universitas Indonesia
+    url: https://ui.ac.id
+  dateTime: 2020-10-21T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/1VF-aITCYUAYP9RH2XW6zxcmooxCmYmu-/view?usp=sharing
+  tags:
+  - cicd
+  - kubernetes
+  - container
+- title: "Pujangga Teknologi Episode Turun Gunung Ep. 2 - Monolithic vs Microservices: Menghindari Cargo-Cult"
+  type: COMMUNITY_TALK
+  event:
+    name: Deeptech Foundation Youtube Channel
+    url: https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw
+  dateTime: 2020-10-22T00:00:00+0700
+  artifact:
+    video: https://www.youtube.com/watch?v=pLMFpZWe-z4&t=7025s&ab_channel=DeepTechFoundation
+  tags:
+  - microservice
+- title: Ensuring Kubernetes Security and Best Practice with Admission Controller
+  type: CONFERENCE_TALK
+  event:
+    name: Open Infrastructure Cloud Native Days
+    url: https://www.openstack.id/2020/10/08/open-infrastructure-cloud-native-day-indonesia-2020/
+  dateTime: 2020-11-07T00:00:00+0700
+  artifact:
+    slide: https://drive.google.com/file/d/15RYIm-NNftEU7EE10elYHHImvDKB3ueZ/view?usp=sharing
+    video: https://www.youtube.com/watch?v=JDl5UedRrbo&ab_channel=ImreNagi
+  tags:
+  - kubernetes
+  - adminission controller
+  - security
+- title: Google Cloud Dataflow - Unified Model for Stream and Batch processing
+  type: COMMUNITY_TALK
+  event:
+    name: "GDG Jakarta Meetup: Cloud Dataflow"
+    url: https://www.meetup.com/GDG-Jakarta/events/258350522/
+  dateTime: 2019-01-31T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1Ws73JxlVH39HiKiYuF3vW903j8wFzxPQihXz4CQ_HZM/edit?usp=sharing
+  tags:
+  - apache beam
+  - cloud dataflow
+  - data
+  - stream processing
+- title: Jk8s Kubernetes Workshop With Google Cloud Study Jam
+  type: WORKSHOP
+  event:
+    name: Jk8s Kubernetes Workshop With Google Cloud Study Jam
+    url: https://www.meetup.com/jakarta-kubernetes/events/258806950/
+  dateTime: 2019-02-23T00:00:00+0700
+  artifact: {}
+  tags:
+  - kubernetes
+- title: Running Istio in Traveloka Production
+  type: COMMUNITY_TALK
+  event:
+    name: Jakarta Kubernetes Meetup
+    url: https://www.meetup.com/jakarta-kubernetes/events/259186080/
+  dateTime: 2019-03-12T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1wnPjOaXLRvfpCyvP6yzjxayiK3JMBfIPOoAapa4aFbo/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=w926ICLyEBg&t=79s
+  tags:
+  - kubernetes
+  - istio
+- title: Simple, Fault-Tolerant MapReduce Engine Written in Golang
+  type: COMMUNITY_TALK
+  event:
+    name: GoJakarta Meetup
+    url: https://www.meetup.com/GoJakarta/events/260326493/
+  dateTime: 2019-04-25T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1gjZqhq0Un2cXAdgLq9pN_kvxiXcnrehSvsEa17TR5wg/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=ugn922zxTck&t=770s
+  tags:
+  - golang
+- title: Core Data Platform’s Journey With Golang & GraphQL
+  type: CONFERENCE_TALK
+  event:
+    name: GopherCon SG 2019
+    url: https://2019.gophercon.sg/
+  dateTime: 2019-05-03T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1GJD0QwBBsvXr4AWKA2losuvdjUN8ZfvF-GPMibuoHl0/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=hIScta6OxQ8&t=1s
+  tags:
+  - golang
+  - graphql
+- title: Introduction to NATS and Deploying NATS and Microservice application in GKE
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Native Jakarta User Group
+    url: https://www.meetup.com/Microservice-JKT/events/261157665/
+  dateTime: 2019-05-11T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=w2J2S6v3K50
+  tags:
+  - nats
+  - microservice
+  - kubernetes    
+- title: Simplify Stream Analytics With Dataflow SQL
+  type: COMMUNITY_TALK
+  event:
+    name: Google Cloud Next Extended Jakarta
+    url: https://www.meetup.com/GDG-Cloud-Jakarta/events/261637121/
+  dateTime: 2019-06-22T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1Kktp0weytCyJcGv2GT0HL-zKYvenjWYbwCW5WJ_ONfk/edit?usp=sharing
+  tags:
+  - cloud dataflow
+  - sql
+- title: Serverless Kubernetes with Google Cloud Run
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Next Extended Bandung
+    url: https://www.meetup.com/GDG-Bandung/events/261855760/
+  dateTime: 2019-06-29T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1zrm_p4PMzG3jdtTIBrT95zMMomT0gmVRp9nb53cuTLQ/edit?usp=sharing
+  tags:
+  - cloud run
+  - serverless
+- title: Simplify Stream Analytics with Dataflow SQL
+  type: COMMUNITY_TALK
+  event:
+    name: Cloud Next Extended Bali
+    url: https://www.meetup.com/GDG-Bali/events/261891448/
+  dateTime: 2019-06-30T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1Kktp0weytCyJcGv2GT0HL-zKYvenjWYbwCW5WJ_ONfk/edit?usp=sharing
+  tags:
+  - cloud dataflow
+  - sql
+- title: Bali Next Extended Workshop
+  type: WORKSHOP
+  event:
+    name: Bali Next Extended Workshop
+    url: https://www.meetup.com/GDG-Bali/events/261891448/
+  dateTime: 2019-06-30T00:00:00+0700
+  artifact: {}    
+  tags:
+  - kubernetes
+- title: Serverless Options in Google Cloud
+  type: COMMUNITY_TALK
+  event:
+    name: GDG Lampung
+  dateTime: 2019-07-13T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1lQT1BG2Sl0SpNwOuh31NXvnO-FIyyJxGR8mpm7oy9_E/edit?usp=sharing
+  tags:
+  - serverless
+- title: "Serverless Computing in Google Cloud Platform"
+  type: COMMUNITY_TALK
+  event:
+    name: "I/O Extended Semarang"
+    url: https://www.meetup.com/gdg-semarang/events/262769046/
+  dateTime: 2019-07-28T00:00:00+0700
+  artifact:
+    video: https://docs.google.com/presentation/d/1ofPuQnmn7Ntb1LPAubVx6sGHL2s477F4aGZpe28FMWc/edit?usp=sharing
+  tags:
+  - serverless
+- title: Cloud Machine Learning and Auto ML
+  type: CORPORATE_TALK
+  event:
+    name: PT PP Digital Construction Hack Workshop
+    url: http://infobanknews.com/ptpp-gelar-digital-construction-hack-workshop/
+  dateTime: 2019-09-25T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1MSDcU6Bi55jp0GGwwdmhGgZu06JonY8CvOKJ-5nIBDM/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=RK8oqewAUKc
+  tags:
+  - auto ml
+  - machine learning
+- title: Intro to StatefulSet with Case Study of Deploying Various Stateful Components (Postgres, Redis, etc.)
+  type: COMMUNITY_TALK
+  event:
+    name: Jakarta Kubernetes Meetup
+    url: https://www.meetup.com/jakarta-kubernetes/events/265139864/
+  dateTime: 2019-10-03T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1x1Qsfujw4WU7ucf-Lq-wdEcMcSg-u0E5QifJD5w2Flc
+    video: https://youtu.be/69voJLpcGLU
+  tags:
+  - kubernetes
+- title: Enabling Experimentation with Kubernetes and Istio
+  type: CONFERENCE_TALK
+  event:
+    name: Cloud DevFest Hanoi 2019
+    url: https://www.meetup.com/GDG-Cloud-Hanoi/events/264539848/
+  dateTime: 2019-11-23T00:00:00+0700
+  artifact: 
+    slide: https://docs.google.com/presentation/d/1iaGUf2IyJ6Y_J8BgfNsHIq3lyEWY3LxhFUFTa4PAu0k/edit?usp=sharing
+  tags:
+  - kubernetes
+  - istio
+- title: Intro to Serverless Container on Cloud Run
+  type: COMMUNITY_TALK
+  event:
+    name: Developer Student Clud Binus X Trilogi
+  dateTime: 2019-11-29T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1zrm_p4PMzG3jdtTIBrT95zMMomT0gmVRp9nb53cuTLQ/edit?usp=sharing
+  tags:
+  - serverless
+  - cloud run
+- title: Experimentation with Kubernetes and Istio
+  type: CONFERENCE_TALK
+  event:
+    name: Cloud DevFest Manila 2019
+    url: https://www.meetup.com/GDG-Cloud-Manila/events/265253762/
+  dateTime: 2019-12-07T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1iaGUf2IyJ6Y_J8BgfNsHIq3lyEWY3LxhFUFTa4PAu0k/edit?usp=sharing
+  tags:
+  - kubernetes
+  - istio
+- title: Adopting Kubernetes for Early Stage Startup
+  type: CONFERENCE_TALK
+  event:
+    name: Cloud DevFest Jakarta 2019
+    url: https://www.meetup.com/GDG-Cloud-Jakarta/events/266746388/
+  dateTime: 2019-07-13T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1v9Tuqt1AjTl5JJMy4ZNHSnXtRxFPAPSTnuvesS-pwhU/edit?usp=sharing
+  tags:
+  - kubernetes
+- title: Introduction to Kubernetes RBAC
+  type: COMMUNITY_TALK
+  event:
+    name: Kubernetes and Cloud Native Bandung
+    url: https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung/events/267202957/
+  dateTime: 2019-07-19T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
+  tags:
+  - kubernetes
+- title: "Docker Learn: Hands-on Workshop"
+  type: WORKSHOP
+  event:
+    name: "Docker Learn: Hands-on Workshop"
+    url: https://www.meetup.com/Docker-Indonesia/events/265418699/
+  dateTime: 2019-12-21T00:00:00+0700
+  artifact: {}
+  tags:
+  - docker
+  - container
+- title: Dockerize Your Project
+  type: COMMUNITY_TALK
+  event:
+    name: GDG Bogor
+    url: https://www.meetup.com/GDG-Bogor/events/past/
+  dateTime: 2018-01-10T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/11VjXD2HLJmh69wB0QInWDvUTkKHwlUXo_DBE8SqtALg/edit?usp=sharing
+  tags:
+  - docker
+- title: "Google Cloud Platform & Docker Workshop For Beginner (Free Workshop/Labs)"
+  type: WORKSHOP
+  event:
+    name: "Google Cloud Platform & Docker Workshop For Beginner (Free Workshop/Labs)"
+    url: https://www.meetup.com/GDG-Jakarta/events/254027476/
+  dateTime: 2018-09-01T00:00:00+0700
+  artifact: {}
+  tags:
+  - docker 
+- title: Data Provisioning API with BigQuery
+  type: COMMUNITY_TALK
+  event:
+    name: Google Cloud Summit Jakarta 2018
+  dateTime: 2018-10-04T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1B1HWk0f1E-AKQnCUzlipU4bJZp2hHoYVgp1DcPg5kPw/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=M27b9EdLCBA&t=849s
+  tags:
+  - bigquery
+- title: Simplified Election News Analytics with Google Cloud
+  type: COMMUNITY_TALK
+  event:
+    name: Google Cloud Next Extended Jakarta
+  dateTime: 2018-10-21T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1iMB9atmnQXE7SJIBaxeco4ku8yZAW2H7XUfRlUAQZJg/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=W2o96PJnnao
+  tags:
+  - analytics
+  - cloud dataflow
+  - bigquery
+- title: Introduction to Google Cloud Platform
+  type: COMMUNITY_TALK
+  event:
+    name: GDG DevFest 2018 - Depok
+    url: https://www.meetup.com/gdg-depok/events/254842453/
+  dateTime: 2018-10-22T00:00:00+0700
+  artifact: {}
+  tags:
+  - google cloud   
+- title: Going Serverless w/ Cloud Function & Vision API
+  type: CONFERENCE_TALK
+  event:
+    name: GDG DevFest 2018 - Jakarta
+    url: https://www.meetup.com/GDG-Jakarta/events/255956807/
+  dateTime: 2018-11-29T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1xHJ6_pAWJ7ug9B0KJ1IV-kkk2lcpA0YNb6R_RWw1nYg/edit?usp=sharing
+    video: https://www.youtube.com/watch?v=9N-7QOnsfdk&t=6s
+  tags:
+  - serverless
+  - cloud function
+  - cloud vision
+- title: Going Serverless w/ Cloud Function & Vision API
+  type: CONFERENCE_TALK
+  event:
+    name: GDG DevFest 2018 - Semarang
+    url: https://www.meetup.com/gdg-semarang/events/255822655/
+  dateTime: 2018-01-10T00:00:00+0700
+  artifact:
+    slide: https://docs.google.com/presentation/d/1d7c7OKf5Wi77J8dD__My7v0F9kBrwtiWCJNcAdBLGu0/edit?usp=sharing 
+  tags:
+  - serverless
+  - cloud function
+  - cloud vision  
