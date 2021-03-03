@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"sort"
+	"strings"
 	"time"
 
 	"text/template"
@@ -81,6 +82,10 @@ func (t Talk) GetTime() time.Time {
 	return tf
 }
 
+func (t Talk) TagsStr() string {
+	return strings.Join(t.Tags, ",")
+}
+
 func main() {
 	var talks Talks
 	talks.readConf()
@@ -100,10 +105,12 @@ var readmeTemplate = []byte(`
 TECH TALK
 ====
 
-| Date | Event | Title | Slide | Video |
-| -----------  | ----------- | ----------- | ----------- | ----------- |
+List of tech talk I've ever gave about Community, Open Source and Cloud Computings
+
+| Date | Event | Title | Slide | Video | Tags |
+| -----------  | ----------- | ----------- | ----------- | ----------- | ----------- |
 {{- range $index, $element := . }}
-| {{ $element.DateStr }} | {{ if $element.Event.URL }} [{{ $element.Event.Name}}]({{$element.Event.URL}}) {{ else }}{{ $element.Event.Name}}{{ end }} | *{{ $element.Title }}* | {{ if $element.Artifact.Slide }} [Slide]($element.Artifact.Slide) {{ end }} | {{ if $element.Artifact.Video }} [Video]($element.Artifact.Video) {{ end }}  |
+| {{ $element.DateStr }} | {{ if $element.Event.URL }} [{{ $element.Event.Name}}]({{$element.Event.URL}}) {{ else }}{{ $element.Event.Name}}{{ end }} | *{{ $element.Title }}* | {{ if $element.Artifact.Slide }} [Slide]($element.Artifact.Slide) {{ end }} | {{ if $element.Artifact.Video }} [Video]($element.Artifact.Video) {{ end }}  | {{ $element.TagsStr }} |
 {{- end }} 
 `)
 
