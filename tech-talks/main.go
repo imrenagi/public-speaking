@@ -110,7 +110,7 @@ List of tech talk I've ever gave about Community, Open Source and Cloud Computin
 | Date | Event | Title | Slide | Video | Tags |
 | -----------  | ----------- | ----------- | ----------- | ----------- | ----------- |
 {{- range $index, $element := . }}
-| {{ $element.DateStr }} | {{ if $element.Event.URL }} [{{ $element.Event.Name}}]({{$element.Event.URL}}) {{ else }}{{ $element.Event.Name}}{{ end }} | *{{ $element.Title }}* | {{ if $element.Artifact.Slide }} [Slide]($element.Artifact.Slide) {{ end }} | {{ if $element.Artifact.Video }} [Video]($element.Artifact.Video) {{ end }}  | {{ $element.TagsStr }} |
+| {{ $element.DateStr }} | {{ if $element.Event.URL }} [{{ $element.Event.Name}}]({{$element.Event.URL}}) {{ else }}{{ $element.Event.Name}}{{ end }} | *{{ $element.Title }}* | {{ if $element.Artifact.Slide }} [Slide]({{ $element.Artifact.Slide }} ) {{ end }} | {{ if $element.Artifact.Video }} [Video]({{ $element.Artifact.Video }}) {{ end }}  | {{ $element.TagsStr }} |
 {{- end }} 
 `)
 
